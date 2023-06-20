@@ -1,6 +1,6 @@
 ### Olá, tudo bom? 👋
-Me chamo é Matheus Fernandes, sou um amante da tecnologia, graduando em Ciência da Computação, Desenvolvedor de Software e apreciador da cultura geek. 😄
-> Hi, My name is Matheus Fernandes, I'm a technology lover, majoring in Computer Science, Software Developer and geek culture appreciator. <br />
+Me chamo é Matheus Fernandes, sou um amante da tecnologia, graduando em Ciência da Computação e Desenvolvedor de Software.
+> Hi, My name is Matheus Fernandes, I'm a technology lover, majoring in Computer Science and Software Developer. <br />
 
 
 
