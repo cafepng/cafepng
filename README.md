@@ -1,5 +1,5 @@
 ### Olá, tudo bom? 👋
-Me chamo é Matheus Fernandes, sou um amante da tecnologia, graduando em Ciência da Computação e Desenvolvedor de Software.
+Me chamo Matheus Fernandes, sou um amante da tecnologia, graduando em Ciência da Computação e Desenvolvedor de Software.
 > Hi, My name is Matheus Fernandes, I'm a technology lover, majoring in Computer Science and Software Developer. <br />
 
 
